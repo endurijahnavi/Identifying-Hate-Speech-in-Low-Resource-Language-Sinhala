@@ -5,7 +5,7 @@ This repository contains the research and implementation of sentiment analysis i
 
 ## Author
 - **Enduri Jahnavi**
-  - Student, Data Science and Artificial Intelligence
+  - Student, Data Science and Artificial Intelligence, 21BDS019
   - Indian Institute of Information Technology, Dharwad, Karnataka, India
   - Email: [21bds019@iiitdwd.ac.in](mailto:21bds019@iiitdwd.ac.in)
 
@@ -14,8 +14,6 @@ This project explores machine learning and deep learning models, including logis
 
 ## Sinhala Offensive Language Dataset (SOLD)
 
-![Dataset Card](https://huggingface.co/datasets/sinhala-nlp/SOLD/card.svg)
-
 This dataset is available on the Hugging Face Datasets Hub. You can access it [here](https://huggingface.co/datasets/sinhala-nlp/SOLD).
 
 ### Description
@@ -23,4 +21,6 @@ The Sinhala Offensive Language Dataset (SOLD) is a manually annotated dataset co
 
 ### Citation
 Ranasinghe, T., Anuradha, I., Premasiri, D., Silva, K., Hettiarachchi, H., Uyangodage, L., & Zampieri, M. (2022). SOLD: Sinhala Offensive Language Dataset. arXiv preprint arXiv:2212.00851.
+
+
 
